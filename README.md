@@ -38,5 +38,16 @@ It can be attached to a lever type door knob. (Google Translated)
 |10|M5x20mm Screw/M5x20mm ネジ| 5 | - | - | |
 |11|M5x25mm Screw/M5x25mm ネジ| 2 | - | - | |
 |12|M5 Washer/M5 ワッシャー| 1 | - | - | |
+|(13)|M6 Flush Cut Bolt/M6全ねじ| 1 | - | - |【Optional】Linker of Each Slider/【オプション】スライダ同士を繋ぐ用|
+|(14)|M6 Hexagon nut/M6 六角ナット| 4 | - | - |【Optional】Linker of Each Slider/【オプション】スライダ同士を繋ぐ用|
 
 ## How to Build / 組み立て方
+
+1. Assemble the attachment part to the door knob / ドアノブへのアタッチメント部分を組み立て
+![](./img/build_step_01.gif)
+1. Attach the attachment part to the door knob / アタッチメント部分をドアノブに取り付け
+1. Attach the slider and guide to the door and connect the links / スライダ,ガイドをドアに取り付けてリンクを繋ぐ
+1. Assemble the pedal part / ペダル部分を組み立て
+1. Attach the pedal part to the door / ペダル部分をドアの取り付け
+1. Connect each slider / スライダ同士を繋ぐ
+1. Finish / 完成
