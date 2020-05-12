@@ -31,7 +31,7 @@ It can be attached to a lever type door knob.
 |6|Pedal/ペダル| 1 | LINK | LINK | |
 |7|Pedal Slider/ペダルスライダ| 1 | LINK | LINK |Knob on the left/ドアノブが左の場合|
 |-|Pedal Slider/ペダルスライダ| 1 | LINK | LINK |Knob on the right/ドアノブが右の場合|
-|8|Cap/キャップ| 2 | LINK | LINK | |
+|8|Cap/キャップ| 2 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/cap.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/cap.step) | |
 |9|M5 Hexagon nut/M5 六角ナット| 7 | - | - | |
 |10|M5x20mm Screw/M5x20mm ネジ| 5 | - | - | |
 |11|M5x25mm Screw/M5x25mm ネジ| 2 | - | - | |
