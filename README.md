@@ -24,11 +24,13 @@ It can be attached to a lever type door knob.
 |:-:|:-:|-|-|-|-|
 |1|Knob Attachment/ノブアタッチメント| 1 | LINK | LINK | |
 |2|Link/リンク| 1 | LINK | LINK | |
-|3|Slider/スライダ| 1 | LINK | LINK | |
+|3|Slider/スライダ| 1 | LINK | LINK |Knob on the left/ドアノブが左の場合|
+|-|Slider/スライダ| 1 | LINK | LINK |Knob on the right/ドアノブが右の場合|
 |4|Guide Rail(Upper)/ガイドレール(上)| 1 | LINK | LINK | |
 |5|Guide Rail(Lower)/ガイドレール(下)| 1 | LINK | LINK | |
 |6|Pedal/ペダル| 1 | LINK | LINK | |
-|7|Pedal Slider/ペダルスライダ| 1 | LINK | LINK | |
+|7|Pedal Slider/ペダルスライダ| 1 | LINK | LINK |Knob on the left/ドアノブが左の場合|
+|-|Pedal Slider/ペダルスライダ| 1 | LINK | LINK |Knob on the right/ドアノブが右の場合|
 |8|Cap/キャップ| 2 | LINK | LINK | |
 |9|M5 Hexagon nut/M5 六角ナット| 7 | - | - | |
 |10|M5x20mm Screw/M5x20mm ネジ| 5 | - | - | |
