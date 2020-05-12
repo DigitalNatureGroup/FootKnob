@@ -20,6 +20,8 @@ It can be attached to a lever type door knob.
 
 ## Parts List / 部品リスト
 
+![](./img/list.jpg)
+
 |Number/番号|Component Name/パーツ名|Quantity/個数|Printable STL data/STLデータ| CAD Data (.step)/CADデータ|Other/備考|
 |:-:|:-:|-|-|-|-|
 |1|Knob Attachment/ノブアタッチメント| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/attachment.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/attachment.step) | |
