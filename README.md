@@ -24,8 +24,8 @@ It can be attached to a lever type door knob.
 |:-:|:-:|-|-|-|-|
 |1|Knob Attachment/ノブアタッチメント| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/attachment.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/attachment.step) | |
 |2|Link/リンク| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/link.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/link.step) | |
-|3|Slider/スライダ| 1 | LINK | LINK |Knob on the left/ドアノブが左の場合|
-|-|Slider/スライダ| 1 | LINK | LINK |Knob on the right/ドアノブが右の場合|
+|3|Slider/スライダ| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/slider_left.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/slider.step) |Knob on the left/ドアノブが左の場合|
+|-|Slider/スライダ| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/slider_right.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/slider.step) |Knob on the right/ドアノブが右の場合|
 |4|Guide Rail(Upper)/ガイドレール(上)| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/guiderail_upper.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/guiderail_upper.step) | |
 |5|Guide Rail(Lower)/ガイドレール(下)| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/guiderail_lower.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/guiderail_lower.step) | |
 |6|Pedal/ペダル| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/pedal.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/pedal.step) | |
