@@ -20,4 +20,19 @@ It can be attached to a lever type door knob.
 
 ## Parts List / 部品リスト
 
+|Number/番号|Component Name/パーツ名|Quantity/個数|Printable STL data/STLデータ| CAD Data (.step)/CADデータ|Other/備考|
+|:-:|:-:|-|-|-|-|
+|1|Knob Attachment/ノブアタッチメント| 1 | LINK | LINK | |
+|2|Link/リンク| 1 | LINK | LINK | |
+|3|Slider/スライダ| 1 | LINK | LINK | |
+|4|Guide Rail(Upper)/ガイドレール(上)| 1 | LINK | LINK | |
+|5|Guide Rail(Lower)/ガイドレール(下)| 1 | LINK | LINK | |
+|6|Pedal/ペダル| 1 | LINK | LINK | |
+|7|Pedal Slider/ペダルスライダ| 1 | LINK | LINK | |
+|8|Cap/キャップ| 2 | LINK | LINK | |
+|9|M5 Hexagon nut/M5 六角ナット| 7 | - | - | |
+|10|M5x20mm Screw/M5x20mm ネジ| 5 | - | - | |
+|11|M5x25mm Screw/M5x25mm ネジ| 2 | - | - | |
+|12|M5 Washer/M5 ワッシャー| 1 | - | - | |
+
 ## How to Build / 組み立て方
