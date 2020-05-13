@@ -24,16 +24,16 @@ It can be attached to a lever type door knob. (Google Translated)
 
 |Number/番号|Component Name/パーツ名|Quantity/個数|Printable STL data/STLデータ| CAD Data (.step)/CADデータ|Other/備考|
 |:-:|:-:|-|-|-|-|
-|1|Knob Attachment/ノブアタッチメント| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/attachment.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/attachment.step) | |
-|2|Link/リンク| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/link.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/link.step) | |
-|3|Slider/スライダ| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/slider_left.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/slider.step) |Knob on the left/ドアノブが左の場合|
-|-|Slider/スライダ| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/slider_right.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/slider.step) |Knob on the right/ドアノブが右の場合|
-|4|Guide Rail(Upper)/ガイドレール(上)| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/guiderail_upper.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/guiderail_upper.step) | |
-|5|Guide Rail(Lower)/ガイドレール(下)| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/guiderail_lower.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/guiderail_lower.step) | |
-|6|Pedal/ペダル| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/pedal.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/pedal.step) | |
-|7|Pedal Slider/ペダルスライダ| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/pedalslider_left.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/pedalslider.step) |Knob on the left/ドアノブが左の場合|
-|-|Pedal Slider/ペダルスライダ| 1 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/pedalslider_right.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/pedalslider.step) |Knob on the right/ドアノブが右の場合|
-|8|Cap/キャップ| 2 | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/stl/cap.stl) | [Download](https://github.com/cha84rakanal/FootKnob/raw/master/step/cap.step) | |
+|1|Knob Attachment/ノブアタッチメント| 1 | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/stl/attachment.stl) | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/step/attachment.step) | |
+|2|Link/リンク| 1 | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/stl/link.stl) | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/step/link.step) | |
+|3|Slider/スライダ| 1 | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/stl/slider_left.stl) | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/step/slider.step) |Knob on the left/ドアノブが左の場合|
+|-|Slider/スライダ| 1 | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/stl/slider_right.stl) | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/step/slider.step) |Knob on the right/ドアノブが右の場合|
+|4|Guide Rail(Upper)/ガイドレール(上)| 1 | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/stl/guiderail_upper.stl) | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/step/guiderail_upper.step) | |
+|5|Guide Rail(Lower)/ガイドレール(下)| 1 | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/stl/guiderail_lower.stl) | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/step/guiderail_lower.step) | |
+|6|Pedal/ペダル| 1 | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/stl/pedal.stl) | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/step/pedal.step) | |
+|7|Pedal Slider/ペダルスライダ| 1 | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/stl/pedalslider_left.stl) | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/step/pedalslider.step) |Knob on the left/ドアノブが左の場合|
+|-|Pedal Slider/ペダルスライダ| 1 | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/stl/pedalslider_right.stl) | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/step/pedalslider.step) |Knob on the right/ドアノブが右の場合|
+|8|Cap/キャップ| 2 | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/stl/cap.stl) | [Download](https://github.com/DigitalNatureGroup/FootKnob/raw/master/step/cap.step) | |
 |9|M5 Hexagon nut/M5 六角ナット| 7 | - | - | |
 |10|M5x20mm Screw/M5x20mm ネジ| 5 | - | - | |
 |11|M5x25mm Screw/M5x25mm ネジ| 2 | - | - | |
