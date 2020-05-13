@@ -1,12 +1,12 @@
 # 3D Printable Attachment for Open a Door without Hand
 
-## What This / 概要
+## About / 概要
 
 There is always a door at the partition of the room, and we touch the doorknob multiple times a day.
 Recently, COVID-19 has become widespread, and we have to work to prevent infection.
-Considering that unspecified number of people are touching the doorknob, it is impossible to touch the doorknob in terms of countermeasures against contact infection.
+Considering that unspecified number of people are touching the doorknob every day, another way of opening the door is needed.
 So I devised a way to open the door without touching the doorknob.
-Consists of parts that can be printed with a personal 3D printer and screws / bolts available at home centers,
+Consisting of parts that can be printed with a personal 3D printer and screws / bolts available at home centers,
 It can be attached to a lever type door knob. (Google Translated)
 
 部屋の区切りには必ずドアは存在し、私達は1日に複数回にわたってドアノブを触ります。  
