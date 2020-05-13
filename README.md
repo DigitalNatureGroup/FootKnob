@@ -48,8 +48,11 @@ It can be attached to a lever type door knob. (Google Translated)
 1. Attach the attachment part to the door knob / アタッチメント部分をドアノブに取り付け
 ![](./img/build_step_02.jpg)
 1. Attach the slider and guide to the door and connect the links / スライダ,ガイドをドアに取り付けてリンクを繋ぐ
+![](./img/build_step_03.jpg)
 1. Assemble the pedal part / ペダル部分を組み立て
 ![](./img/build_step_04.gif)
 1. Attach the pedal part to the door / ペダル部分をドアの取り付け
+![](./img/build_step_05.jpg)
 1. Connect each slider / スライダ同士を繋ぐ
 1. Finish / 完成
+![](./img/build_step_06.jpg)
