@@ -53,3 +53,15 @@ It can be attached to a lever type door knob. (Google Translated)
 1. Connect each slider / スライダ同士を繋ぐ
 1. Finish / 完成
 ![](./img/build_step_06.jpg)
+
+
+# Citation / 引用
+```
+@misc{FootKnob2020,
+    author  = {Tatsuya Minagawa},
+    title   = {3D Printable Attachment for Opening a Door without Hand},
+    note    = {\url{https://github.com/DigitalNatureGroup/FootKnob}},
+    year    = {2020}
+    month   = {may}
+}
+```
