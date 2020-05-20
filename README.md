@@ -1,4 +1,4 @@
-# 3D Printable Attachment for Open a Door without Hand
+# 3D Printable Attachment for Opening a Door without Hand
 
 ## About / 概要
 
@@ -55,7 +55,7 @@ It can be attached to a lever type door knob. (Google Translated)
 ![](./img/build_step_06.jpg)
 
 
-# Citation / 引用
+## Citation / 引用
 ```
 @misc{FootKnob2020,
     author  = {Tatsuya Minagawa},
